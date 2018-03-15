@@ -1,7 +1,7 @@
 package enums;
 
 public enum LightsEnumWithValues {
-	RED("ºìÉ«"),YELLOW("»ÆÉ«"),GREEN("ÂÌÉ«");
+	RED("çº¢è‰²"),YELLOW("é»„è‰²"),GREEN("ç»¿è‰²");
 	
 	private String value;
 	
