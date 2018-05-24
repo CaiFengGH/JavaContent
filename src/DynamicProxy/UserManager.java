@@ -2,7 +2,7 @@ package DynamicProxy;
 
 /**
  * @author Ethan
- * @desc 被代理接口
+ * @desc 鐢ㄦ埛绠＄悊
  */
 public interface UserManager {
 	public void addUser(String id,String password);
