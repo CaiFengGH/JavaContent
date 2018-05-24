@@ -2,7 +2,7 @@ package DynamicProxy;
 
 /**
  * @author Ethan
- * @desc ²âÊÔJDK¶¯Ì¬´úÀí 
+ * @desc ç”¨æˆ·ç®¡ç†å®¢æˆ·ç«¯
  */
 public class Client {
 	
