@@ -5,3 +5,5 @@
 - [缓存失效策略FIFO/LRU/LFU](https://blog.csdn.net/clementad/article/details/48229243)
 
 - [本地缓存/客户端缓存/服务端缓存](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/421-ying-yong-ceng-ben-di-huan-cun/4211.html)
+
+- [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
