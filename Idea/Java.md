@@ -3,6 +3,8 @@
 - [JDK动态代理和Cglib动态代理](https://blog.csdn.net/u013126379/article/details/52121096)
 [两种动态代理方式补充](https://blog.csdn.net/mhmyqn/article/details/48474815)
 
+- [深入分析Java反射实现原理](https://www.jianshu.com/p/3ea4a6b57f87)
+
 >JVM相关知识
 
 - [对象并不一定都是在堆上分配内存的](https://mp.weixin.qq.com/s/VRjflfdqgdM-J9dzdoyFng)
