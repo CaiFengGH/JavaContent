@@ -5,8 +5,6 @@
 
 >JVM相关知识
 
-- [Java代码到底是如何编译成机器指令的](https://mp.weixin.qq.com/s/XH-JajAne0O7_yCYE5wBbg)
-
 - [对象并不一定都是在堆上分配内存的](https://mp.weixin.qq.com/s/VRjflfdqgdM-J9dzdoyFng)
 
 - [深入理解Java逃逸技术](https://mp.weixin.qq.com/s/HWIuXNWjyfV-5UVoQG3vSQ)
