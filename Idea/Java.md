@@ -8,3 +8,14 @@
 - [对象并不一定都是在堆上分配内存的](https://mp.weixin.qq.com/s/VRjflfdqgdM-J9dzdoyFng)
 
 - [深入理解Java逃逸技术](https://mp.weixin.qq.com/s/HWIuXNWjyfV-5UVoQG3vSQ)
+
+>Java命令系列
+
+- [Java开发线上问题排查](http://www.hollischuang.com/archives/1561)
+[Jps](http://www.hollischuang.com/archives/105)
+[Jstack](http://www.hollischuang.com/archives/110)
+[Jmap](http://www.hollischuang.com/archives/303)
+[Jstate](http://www.hollischuang.com/archives/481)
+[Jhat](http://www.hollischuang.com/archives/1047)
+[Jinfo](http://www.hollischuang.com/archives/1094)
+[Javap](http://www.hollischuang.com/archives/1107)
