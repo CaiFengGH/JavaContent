@@ -8,6 +8,14 @@
 - [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
 [ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
 
+>序列化
+
+- [Java对象的序列化和反序列化](http://www.hollischuang.com/archives/1150)
+
+- [深入分析Java的序列化和反序列化](http://www.hollischuang.com/archives/1140)
+
+- [序列化对单例的破坏和解决方案](http://www.hollischuang.com/archives/1144)
+
 >反射和代理
 
 - [JDK动态代理和Cglib动态代理](https://blog.csdn.net/u013126379/article/details/52121096)
