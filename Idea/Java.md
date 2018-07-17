@@ -2,8 +2,8 @@
 
 >集合
 
-- [HashMap之JDK7](http://www.importnew.com/20386.html)
-[HashMap之JDK8](http://www.importnew.com/20386.html)
+- [HashMap1.7](http://www.importnew.com/20386.html)
+[HashMap1.8](http://www.importnew.com/20386.html)
 
 - [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
 [ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
