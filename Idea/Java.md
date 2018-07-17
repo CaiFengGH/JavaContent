@@ -10,6 +10,8 @@
 
 - [LinkedHashMap1.7](http://www.importnew.com/16695.html)
 
+- [Hash+index/hashTable+hashMap+concurrentHashMap/1.7+1.8](http://www.hollischuang.com/archives/2091)
+
 >序列化
 
 - [Java对象的序列化和反序列化](http://www.hollischuang.com/archives/1150)
