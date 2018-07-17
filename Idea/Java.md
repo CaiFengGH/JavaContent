@@ -5,7 +5,8 @@
 - [HashMap之JDK7](http://www.importnew.com/20386.html)
 [HashMap之JDK8](http://www.importnew.com/20386.html)
 
-- [ConcurrentHashMap原理分析](https://my.oschina.net/hosee/blog/639352)
+- [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
+[ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
 
 >反射和代理
 
