@@ -27,6 +27,10 @@
 
 ## JVM相关知识
 
+>类加载
+
+- [深度分析Java的ClassLoader机制](http://www.hollischuang.com/archives/199)
+
 - [对象并不一定都是在堆上分配内存的](https://mp.weixin.qq.com/s/VRjflfdqgdM-J9dzdoyFng)
 
 - [深入理解Java逃逸技术](https://mp.weixin.qq.com/s/HWIuXNWjyfV-5UVoQG3vSQ)
