@@ -14,6 +14,13 @@
 
 - [详解代理-包括计算机网络层面和Java层面](https://mp.weixin.qq.com/s/kycTUCtgmjtdAA4f_KpFFg)
 
+>二进制基础
+
+- [二进制基础](https://mp.weixin.qq.com/s/AIvthkKEqacnfZBIZAxSKA)
+
+- [二进制实战小技巧](https://mp.weixin.qq.com/s/AIvthkKEqacnfZBIZAxSKA)
+
+- [Float表示](https://blog.csdn.net/gaoshuang5678/article/details/50554131)
 
 ## JVM相关知识
 
