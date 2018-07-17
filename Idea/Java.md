@@ -8,6 +8,8 @@
 - [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
 [ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
 
+- [LinkedHashMap1.7](http://www.importnew.com/16695.html)
+
 >序列化
 
 - [Java对象的序列化和反序列化](http://www.hollischuang.com/archives/1150)
