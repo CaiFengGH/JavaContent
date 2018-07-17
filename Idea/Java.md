@@ -1,5 +1,9 @@
 ## Java基础知识
 
+>值传递
+
+- [Java中仅有值传递，区分值传递和引用传递的定义区别，复制还是直接](http://www.hollischuang.com/archives/2275)
+
 >集合
 
 - [HashMap1.7](http://www.importnew.com/20386.html)
