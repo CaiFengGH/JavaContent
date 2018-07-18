@@ -28,6 +28,8 @@
 
 >单例
 
+- [单例设计模式](http://www.importnew.com/21141.html)
+
 - [反射对单例的破坏](http://www.importnew.com/22493.html)
 
 - [序列化对单例的破坏和解决方案](http://www.hollischuang.com/archives/1144)
