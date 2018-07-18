@@ -51,6 +51,8 @@
 
 - [深度分析Java的ClassLoader机制](http://www.hollischuang.com/archives/199)
 
+>内存分配
+
 - [对象并不一定都是在堆上分配内存的](https://mp.weixin.qq.com/s/VRjflfdqgdM-J9dzdoyFng)
 
 - [深入理解Java逃逸技术](https://mp.weixin.qq.com/s/HWIuXNWjyfV-5UVoQG3vSQ)
@@ -67,6 +69,20 @@
 [Javap](http://www.hollischuang.com/archives/1107)
 
 ## Java多线程
+
+>锁深入理解
+
+- [synchronized方法和代码块](http://www.hollischuang.com/archives/1883)
+
+- [synchronized原理](http://www.importnew.com/23511.html)
+
+- [volatile原理](http://www.importnew.com/18126.html)
+
+- [ReentrantLock原理](http://www.importnew.com/22924.html)
+
+- [乐观锁和悲观锁](http://www.importnew.com/21037.html)
+
+>线程池
 
 - [深入分析Java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
 
