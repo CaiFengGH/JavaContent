@@ -70,7 +70,7 @@
 
 ## Java多线程
 
->锁深入理解
+>锁
 
 - [synchronized方法和代码块](http://www.hollischuang.com/archives/1883)
 
