@@ -26,6 +26,10 @@
 
 - [深入分析Java的序列化和反序列化](http://www.hollischuang.com/archives/1140)
 
+>单例
+
+- [反射对单例的破坏](http://www.importnew.com/22493.html)
+
 - [序列化对单例的破坏和解决方案](http://www.hollischuang.com/archives/1144)
 
 >反射和代理
