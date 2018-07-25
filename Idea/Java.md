@@ -12,6 +12,12 @@
 
 - [Java中仅有值传递，区分值传递和引用传递的定义区别，复制还是直接](http://www.hollischuang.com/archives/2275)
 
+>枚举
+
+-[枚举用法一](http://www.hollischuang.com/archives/195)
+[枚举用法二](https://www.jianshu.com/p/2f592e6109d1)
+[枚举源码](http://www.hollischuang.com/archives/92)
+
 >集合
 
 - [HashMap1.7](http://www.importnew.com/20386.html)
