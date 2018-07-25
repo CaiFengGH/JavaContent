@@ -1,5 +1,9 @@
 ## Java基础知识
 
+>Comparable和Comparator
+
+- [Comparable和Comparator的使用](http://www.hollischuang.com/archives/1292)
+
 >三目运算符
 
 - [三目运算符和自动拆箱导致空指针异常](http://www.hollischuang.com/archives/435)
