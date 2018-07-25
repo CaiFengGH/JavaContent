@@ -20,6 +20,10 @@
 
 - [Java中仅有值传递，区分值传递和引用传递的定义区别，复制还是直接](http://www.hollischuang.com/archives/2275)
 
+>重载与重写
+
+- [重载与重写的区别](http://www.hollischuang.com/archives/1308)
+
 >枚举
 
 - [枚举用法一](http://www.hollischuang.com/archives/195)
