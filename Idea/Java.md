@@ -1,6 +1,6 @@
 ## Java基础知识
 
->令人困惑的String
+>String
 
 - [String-运行时常量池/字面量/intern](http://www.hollischuang.com/archives/2517)
 
@@ -19,6 +19,8 @@
 - [LinkedHashMap1.7](http://www.importnew.com/16695.html)
 
 - [Hash+index/hashTable+hashMap+concurrentHashMap/1.7+1.8](http://www.hollischuang.com/archives/2091)
+
+- [fail-fast](http://www.cnblogs.com/skywang12345/p/3308762.html)
 
 >序列化
 
