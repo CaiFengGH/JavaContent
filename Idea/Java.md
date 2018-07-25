@@ -1,5 +1,9 @@
 ## Java基础知识
 
+>三目运算符
+
+- [三目运算符和自动拆箱导致空指针异常](http://www.hollischuang.com/archives/435)
+
 >可变参数
 
 - [Java可变参数](http://www.hollischuang.com/archives/222)
