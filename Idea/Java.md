@@ -28,6 +28,10 @@
 
 - [重载与重写的区别](http://www.hollischuang.com/archives/1308)
 
+>接口和抽象类
+
+- [接口和抽象类](http://www.importnew.com/18780.html)
+
 >枚举
 
 - [枚举用法一](http://www.hollischuang.com/archives/195)
