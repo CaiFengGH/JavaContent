@@ -1,5 +1,9 @@
 ## Java基础知识
 
+>可变参数
+
+- [Java可变参数](http://www.hollischuang.com/archives/222)
+
 >Switch
 
 - [switch只支持整型](http://www.hollischuang.com/archives/61)
@@ -17,6 +21,12 @@
 - [枚举用法一](http://www.hollischuang.com/archives/195)
 [枚举用法二](https://www.jianshu.com/p/2f592e6109d1)
 [枚举源码](http://www.hollischuang.com/archives/92)
+
+>泛型
+
+- [类型擦除](http://www.hollischuang.com/archives/226)
+
+- [泛型方法](http://www.hollischuang.com/archives/228)
 
 >集合
 
