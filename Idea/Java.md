@@ -14,7 +14,7 @@
 
 >枚举
 
--[枚举用法一](http://www.hollischuang.com/archives/195)
+- [枚举用法一](http://www.hollischuang.com/archives/195)
 [枚举用法二](https://www.jianshu.com/p/2f592e6109d1)
 [枚举源码](http://www.hollischuang.com/archives/92)
 
