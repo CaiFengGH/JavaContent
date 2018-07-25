@@ -1,5 +1,9 @@
 ## Java基础知识
 
+>Switch
+
+- [switch只支持整型](http://www.hollischuang.com/archives/61)
+
 >String
 
 - [String-运行时常量池/字面量/intern](http://www.hollischuang.com/archives/2517)
