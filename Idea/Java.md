@@ -32,6 +32,12 @@
 
 - [重载与重写的区别](http://www.hollischuang.com/archives/1308)
 
+>关键字
+
+- [Java关键字](http://www.cnblogs.com/hellokitty1/p/4373048.html)
+
+- [final](http://www.importnew.com/18586.html)
+
 >接口和抽象类
 
 - [接口和抽象类](http://www.importnew.com/18780.html)
