@@ -1,6 +1,6 @@
 ## Web安全
 
-
+- [xss攻击]()
 
 ## DDos
 
@@ -13,4 +13,8 @@
 - [RSA加密之公钥私钥](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 
 ## 认证授权
+
+- [理解OAuth2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+- [一张图理解OAuth2.0](https://www.cnblogs.com/flashsun/p/7424071.html)
 
