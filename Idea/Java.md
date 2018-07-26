@@ -48,6 +48,10 @@
 
 - [Java内部类详解二](http://www.importnew.com/20134.html)
 
+>异常
+
+- [Java中异常处理详解](http://www.importnew.com/26613.html)
+
 >枚举
 
 - [枚举用法一](http://www.hollischuang.com/archives/195)
