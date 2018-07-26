@@ -20,6 +20,10 @@
 
 - [String-运行时常量池/字面量/intern](http://www.hollischuang.com/archives/2517)
 
+>访问权限
+
+- [Java的访问权限](http://www.importnew.com/18097.html)
+
 >值传递
 
 - [Java中仅有值传递，区分值传递和引用传递的定义区别，复制还是直接](http://www.hollischuang.com/archives/2275)
@@ -31,6 +35,10 @@
 >接口和抽象类
 
 - [接口和抽象类](http://www.importnew.com/18780.html)
+
+>内部类
+
+- [Java内部类详解](http://www.cnblogs.com/dolphin0520/p/3811445.html)
 
 >枚举
 
