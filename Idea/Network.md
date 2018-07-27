@@ -7,3 +7,5 @@
 - [Protobuf和Protostuff的使用](https://blog.csdn.net/eric520zenobia/article/details/53766571)
 
 - [Hessian序列化初尝](http://www.iteye.com/topic/245238)
+
+- [Rest风格架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
