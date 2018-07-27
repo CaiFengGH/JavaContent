@@ -4,6 +4,8 @@
 
 - [单机定时任务之Quartz](https://www.cnblogs.com/drift-ice/p/3817269.html)
 
+- [定时任务详解/Timer/ScheduleExecutorService/SpringTask](http://www.spring4all.com/article/1182)
+
 ## 缓存
 
 - [缓存失效策略FIFO/LRU/LFU](https://blog.csdn.net/clementad/article/details/48229243)
