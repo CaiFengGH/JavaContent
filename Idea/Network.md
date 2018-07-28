@@ -30,7 +30,7 @@
 
 >子网划分
 
-- [互联网协议入门二](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
+- [互联网协议入门一](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 
 >Restful风格
 
