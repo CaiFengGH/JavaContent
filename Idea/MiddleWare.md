@@ -16,6 +16,10 @@
 
 >序列化
 
+- [Java对象的序列化和反序列化](http://www.hollischuang.com/archives/1150)
+
+- [深入分析Java的序列化和反序列化](http://www.hollischuang.com/archives/1140)
+
 - [Protobuf和Protostuff的使用](https://blog.csdn.net/eric520zenobia/article/details/53766571)
 
 - [Hessian序列化初尝](http://www.iteye.com/topic/245238)
