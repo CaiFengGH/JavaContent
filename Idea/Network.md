@@ -4,6 +4,8 @@
 
 - [SSL运行机制，即公钥加密之后交互的共享密钥](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
 
+- [http状态码查询](http://tool.oschina.net/commons?type=5)
+
 >Tcp协议
 
 - [Tcp长连接与短连接](https://www.cnblogs.com/pangguoping/p/5571422.html)
