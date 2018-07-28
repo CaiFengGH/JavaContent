@@ -10,6 +10,8 @@
 
 >Tcp协议
 
+- [Tcp头与Ip头](https://blog.csdn.net/ythunder/article/details/65664309)
+
 - [Tcp长连接与短连接](https://www.cnblogs.com/pangguoping/p/5571422.html)
 
 - [Tcp连接的建立和终止](https://www.jianshu.com/p/572b7fc5a0f1)
