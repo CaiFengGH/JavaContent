@@ -78,12 +78,6 @@
 
 - [fail-fast](http://www.cnblogs.com/skywang12345/p/3308762.html)
 
->序列化
-
-- [Java对象的序列化和反序列化](http://www.hollischuang.com/archives/1150)
-
-- [深入分析Java的序列化和反序列化](http://www.hollischuang.com/archives/1140)
-
 >单例
 
 - [单例设计模式](http://www.importnew.com/21141.html)
