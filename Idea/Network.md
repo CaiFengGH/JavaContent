@@ -1,5 +1,7 @@
 >Http协议
 
+- [PUT和POST区别](https://www.oschina.net/translate/put-or-post)
+
 - [Http2.0原理简析](https://blog.csdn.net/zhuyiquan/article/details/69257126)
 
 - [SSL运行机制，即公钥加密之后交互的共享密钥](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
