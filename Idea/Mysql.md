@@ -27,3 +27,6 @@
 
 - [Mysql优化神器Explain](https://segmentfault.com/a/1190000008131735)
 
+>分区和分表
+
+- [Mysql分区和分表的区别](http://blog.csdn.net/heirenheiren/article/details/7896546)
