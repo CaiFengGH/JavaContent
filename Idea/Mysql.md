@@ -30,3 +30,9 @@
 >分区和分表
 
 - [Mysql分区和分表的区别](http://blog.csdn.net/heirenheiren/article/details/7896546)
+
+>Redis
+
+- [Redis数据类型](http://blog.csdn.net/hechurui/article/details/49508735)
+
+- [Redis数据结构](https://www.jianshu.com/p/c7f0dcf3416a)
