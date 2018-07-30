@@ -30,7 +30,7 @@
 
 >Mysql索引原理
 
-- [mysql索引原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+- [Mysql索引原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 >优化神器Explain
 
