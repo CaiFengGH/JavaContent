@@ -38,6 +38,8 @@
 
 - [MyInsam聚集索引/InnoDb非聚集索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
+- [最左匹配/选择性+前缀索引/InnoDb自增主键](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
 >优化神器Explain
 
 - [Mysql优化神器Explain](https://segmentfault.com/a/1190000008131735)
