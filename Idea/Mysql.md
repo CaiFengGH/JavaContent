@@ -8,6 +8,8 @@
 
 - [复杂的Sql语句](https://www.jianshu.com/p/b390235306b4)
 
+- [Sql优化](http://database.51cto.com/art/200904/118526.htm)
+
 >存储引擎
 
 - [存储引擎的区别](https://blog.csdn.net/zhangyuan19880606/article/details/51217952)
