@@ -18,7 +18,7 @@
 
 - [MySQL表锁的读写-MyISAM](http://www.hollischuang.com/archives/1728)
 
-- [MySQL行锁的读写-InnoDB](http://www.hollischuang.com/archives/923)
+- [MySQL行锁的读写-InnoDB](http://www.hollischuang.com/archives/914)
 
 >Mysql索引原理
 
