@@ -20,14 +20,6 @@
 
 - [MySQL行锁的读写-InnoDB](http://www.hollischuang.com/archives/923)
 
->Mysql事务
-
-- [数据库事务](https://www.jianshu.com/p/4e06721299a2)
-
->MySQL中锁
-
-- [MySQL乐观锁和悲观锁](http://www.hollischuang.com/archives/934)
-
 >Mysql索引原理
 
 - [索引的创建策略及优缺点](https://diducoder.com/mass-data-topic-7-index-and-optimize.html)
@@ -40,6 +32,14 @@
 
 - [最左匹配/选择性+前缀索引/InnoDb自增主键](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
+>Mysql事务
+
+- [数据库事务](https://www.jianshu.com/p/4e06721299a2)
+
+>MySQL中锁
+
+- [MySQL乐观锁和悲观锁](http://www.hollischuang.com/archives/934)
+
 >优化神器Explain
 
 - [Mysql优化神器Explain](https://segmentfault.com/a/1190000008131735)
@@ -47,6 +47,10 @@
 >分区和分表
 
 - [Mysql分区和分表的区别](http://blog.csdn.net/heirenheiren/article/details/7896546)
+
+>主从
+
+- [Mysql主从架构和主从复制](https://www.jianshu.com/p/e30e48a7f294)
 
 >Redis
 
