@@ -32,6 +32,8 @@
 
 - [Mysql索引原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
+- [MyInsam聚集索引/InnoDb非聚集索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
 >优化神器Explain
 
 - [Mysql优化神器Explain](https://segmentfault.com/a/1190000008131735)
