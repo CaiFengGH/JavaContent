@@ -103,6 +103,10 @@
 
 - [Float表示](https://blog.csdn.net/gaoshuang5678/article/details/50554131)
 
+>设计模式
+
+- [深入浅出设计模式](https://www.jianshu.com/p/6e5eda3a51af)
+
 ## JDK
 
 - [Java8 新特性](http://www.importnew.com/11908.html)
