@@ -146,9 +146,11 @@
 
 - [volatile原理](http://www.importnew.com/18126.html)
 
-- [ReentrantLock原理](http://www.importnew.com/22924.html)
-
 - [乐观锁和悲观锁](http://www.importnew.com/21037.html)
+
+>JUC
+
+- [ReentrantLock原理](http://www.importnew.com/22924.html)
 
 >同步辅助类
 
