@@ -144,6 +144,8 @@
 
 - [困惑的interrupt/interrupted/isInterrupted](https://www.jianshu.com/p/75e699ee083e)
 
+- [join阻塞主线程原因](http://www.cnblogs.com/skywang12345/p/3479275.html)
+
 >锁原理
 
 - [synchronized方法和代码块](http://www.hollischuang.com/archives/1883)
