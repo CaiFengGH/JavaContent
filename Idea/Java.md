@@ -150,6 +150,10 @@
 
 - [乐观锁和悲观锁](http://www.importnew.com/21037.html)
 
+>同步辅助类
+
+- [同步辅助类使用](https://www.jianshu.com/p/0e411c78f385)
+
 >线程池
 
 - [深入分析Java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
