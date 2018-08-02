@@ -142,6 +142,8 @@
 
 - [线程的状态](http://www.cnblogs.com/skywang12345/p/3479024.html)
 
+- [困惑的interrupt/interrupted/isInterrupted](https://www.jianshu.com/p/75e699ee083e)
+
 >锁原理
 
 - [synchronized方法和代码块](http://www.hollischuang.com/archives/1883)
