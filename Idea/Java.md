@@ -154,7 +154,9 @@
 
 - [sleep不释放对象锁](http://www.cnblogs.com/skywang12345/p/3479256.html)
 
-- [死锁及定位](http://www.cnblogs.com/xrq730/p/4853713.html)
+- [死锁问题](http://www.cnblogs.com/xrq730/p/4853713.html)
+
+- [生产者消费者模型-锁/阻塞队列](https://github.com/CaiFengGH/JobContent/tree/master/src/ProduceAndConsume)
 
 - [深入浅出ThreadLocal](http://www.importnew.com/20147.html)
 [ThreadLocal面试终极篇](https://mp.weixin.qq.com/s/5gkK_dwDPAOrtHYSLsQzUA)
