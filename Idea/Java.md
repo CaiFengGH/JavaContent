@@ -150,6 +150,10 @@
 
 - [Callable和Future](http://www.cnblogs.com/skywang12345/p/3544116.html)
 
+- [wait和notify](http://www.cnblogs.com/skywang12345/p/3479224.html)
+
+- [sleep不释放对象锁](http://www.cnblogs.com/skywang12345/p/3479256.html)
+
 >锁原理
 
 - [synchronized方法和代码块](http://www.hollischuang.com/archives/1883)
