@@ -154,6 +154,9 @@
 
 - [sleep不释放对象锁](http://www.cnblogs.com/skywang12345/p/3479256.html)
 
+- [深入浅出ThreadLocal](http://www.importnew.com/20147.html)
+[ThreadLocal面试终极篇](https://mp.weixin.qq.com/s/5gkK_dwDPAOrtHYSLsQzUA)
+
 >锁原理
 
 - [synchronized方法和代码块](http://www.hollischuang.com/archives/1883)
@@ -178,5 +181,3 @@
 
 - [深入分析Java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
 
-- [深入浅出ThreadLocal](http://www.importnew.com/20147.html)
-[ThreadLocal面试终极篇](https://mp.weixin.qq.com/s/5gkK_dwDPAOrtHYSLsQzUA)
