@@ -173,7 +173,7 @@
 
 >JUC
 
-- [ReentrantLock原理](http://www.importnew.com/22924.html)
+- [ReentrantLock源码](http://www.importnew.com/22924.html)
 
 >同步辅助类
 
