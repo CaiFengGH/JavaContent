@@ -2,6 +2,10 @@
 
 - [PUT和POST区别](https://www.oschina.net/translate/put-or-post)
 
+- [Get和Post区别](http://www.cnblogs.com/hyddd/archive/2009/03/31/1426026.html)
+
+- [Cookie和Session区别](www.cnblogs.com/shiyangxt/archive/2008/10/07/1305506.html)
+
 - [Http2.0原理简析](https://blog.csdn.net/zhuyiquan/article/details/69257126)
 
 - [SSL运行机制，即公钥加密之后交互的共享密钥](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
