@@ -64,28 +64,6 @@
 
 - [泛型方法](http://www.hollischuang.com/archives/228)
 
->集合
-
-- [HashMap1.7](http://www.importnew.com/20386.html)
-[HashMap1.8](http://www.importnew.com/20386.html)
-
-- [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
-[ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
-
-- [LinkedHashMap1.7](http://www.importnew.com/16695.html)
-
-- [Hash+index/hashTable+hashMap+concurrentHashMap/1.7+1.8](http://www.hollischuang.com/archives/2091)
-
-- [fail-fast](http://www.cnblogs.com/skywang12345/p/3308762.html)
-
->单例
-
-- [单例设计模式](http://www.importnew.com/21141.html)
-
-- [反射对单例的破坏](http://www.importnew.com/22493.html)
-
-- [序列化对单例的破坏和解决方案](http://www.hollischuang.com/archives/1144)
-
 >反射和代理
 
 - [JDK动态代理和Cglib动态代理](https://blog.csdn.net/u013126379/article/details/52121096)
@@ -103,15 +81,21 @@
 
 - [Float表示](https://blog.csdn.net/gaoshuang5678/article/details/50554131)
 
->设计模式
+## Java集合
 
-- [深入浅出设计模式](https://www.jianshu.com/p/6e5eda3a51af)
+- [Java优先队列使用](http://www.importnew.com/6932.html)
 
-## JDK
+- [HashMap1.7](http://www.importnew.com/20386.html)
+[HashMap1.8](http://www.importnew.com/20386.html)
 
-- [Java8 新特性](http://www.importnew.com/11908.html)
+- [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
+[ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
 
-- [Java9 新特性](http://www.importnew.com/24528.html)
+- [LinkedHashMap1.7](http://www.importnew.com/16695.html)
+
+- [Hash+index/hashTable+hashMap+concurrentHashMap/1.7+1.8](http://www.hollischuang.com/archives/2091)
+
+- [fail-fast](http://www.cnblogs.com/skywang12345/p/3308762.html)
 
 ## JVM相关知识
 
@@ -125,16 +109,6 @@
 
 - [深入理解Java逃逸技术](https://mp.weixin.qq.com/s/HWIuXNWjyfV-5UVoQG3vSQ)
 
-## Java命令系列
-
-- [Java开发线上问题排查](http://www.hollischuang.com/archives/1561)
-[Jps](http://www.hollischuang.com/archives/105)
-[Jstack](http://www.hollischuang.com/archives/110)
-[Jmap](http://www.hollischuang.com/archives/303)
-[Jstate](http://www.hollischuang.com/archives/481)
-[Jhat](http://www.hollischuang.com/archives/1047)
-[Jinfo](http://www.hollischuang.com/archives/1094)
-[Javap](http://www.hollischuang.com/archives/1107)
 
 ## Java多线程
 
@@ -184,4 +158,37 @@
 >线程池
 
 - [深入分析Java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
+
+
+## 设计模式
+
+>常见设计模式
+
+- [深入浅出设计模式](https://www.jianshu.com/p/6e5eda3a51af)
+
+>单例
+
+- [单例设计模式](http://www.importnew.com/21141.html)
+
+- [反射对单例的破坏](http://www.importnew.com/22493.html)
+
+- [序列化对单例的破坏和解决方案](http://www.hollischuang.com/archives/1144)
+
+## JDK
+
+- [Java8 新特性](http://www.importnew.com/11908.html)
+
+- [Java9 新特性](http://www.importnew.com/24528.html)
+
+## Java命令系列
+
+- [Java开发线上问题排查](http://www.hollischuang.com/archives/1561)
+[Jps](http://www.hollischuang.com/archives/105)
+[Jstack](http://www.hollischuang.com/archives/110)
+[Jmap](http://www.hollischuang.com/archives/303)
+[Jstate](http://www.hollischuang.com/archives/481)
+[Jhat](http://www.hollischuang.com/archives/1047)
+[Jinfo](http://www.hollischuang.com/archives/1094)
+[Javap](http://www.hollischuang.com/archives/1107)
+
 
