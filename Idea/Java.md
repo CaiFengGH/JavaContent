@@ -167,6 +167,13 @@
 
 - [ReentrantLock源码](http://www.importnew.com/22924.html)
 
+>同步集合
+
+- [阻塞队列](http://www.importnew.com/17537.html)
+
+- [CopyOnWriteArrayList使用](http://www.importnew.com/25034.html)
+[COW容器](http://www.importnew.com/22470.html)
+
 >同步辅助类
 
 - [同步辅助类使用](https://www.jianshu.com/p/0e411c78f385)
