@@ -93,6 +93,8 @@
 [PriorityQueue底层原理即最小堆添加删除](http://www.cnblogs.com/CarpenterLee/p/5488070.html)
 [最大堆的添加删除](http://www.cnblogs.com/skywang12345/p/3610390.html)
 
+- [HashMap容量初始化深入](http://www.hollischuang.com/archives/2431)
+
 - [HashMap1.7与1.8](http://www.importnew.com/20386.html)
 [HashTable和HashMap区别](http://www.importnew.com/24822.html)
 
