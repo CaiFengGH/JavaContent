@@ -94,6 +94,7 @@
 [最大堆的添加删除](http://www.cnblogs.com/skywang12345/p/3610390.html)
 
 - [HashMap1.7与1.8](http://www.importnew.com/20386.html)
+[HashTable和HashMap区别](http://www.importnew.com/24822.html)
 
 - [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
 [ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
