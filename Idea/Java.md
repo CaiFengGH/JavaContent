@@ -93,8 +93,7 @@
 [PriorityQueue底层原理即最小堆添加删除](http://www.cnblogs.com/CarpenterLee/p/5488070.html)
 [最大堆的添加删除](http://www.cnblogs.com/skywang12345/p/3610390.html)
 
-- [HashMap1.7](http://www.importnew.com/20386.html)
-[HashMap1.8](http://www.importnew.com/20386.html)
+- [HashMap1.7与1.8](http://www.importnew.com/20386.html)
 
 - [ConcurrentHashMap1.7](https://my.oschina.net/hosee/blog/639352)
 [ConcurrentHashMap1.7与1.8](http://www.importnew.com/22007.html)
