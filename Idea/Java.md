@@ -101,6 +101,12 @@
 
 ## JVM相关知识
 
+>Java内存区域和GC回收
+
+- [Java内存区域和GC回收](http://www.cnblogs.com/hnrainll/archive/2013/11/06/3410042.html)
+
+- [JVM调优基本配置](http://www.importnew.com/19264.html)
+
 >类加载
 
 - [深度分析Java的ClassLoader机制](http://www.hollischuang.com/archives/199)
