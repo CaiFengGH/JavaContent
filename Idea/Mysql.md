@@ -40,6 +40,9 @@
 
 - [MySQL乐观锁和悲观锁](http://www.hollischuang.com/archives/934)
 
+- [MVCC例子](https://blog.csdn.net/whoamiyang/article/details/51901888)
+[MVCC原理](https://www.cnblogs.com/chenpingzhao/p/5065316.html)
+
 >优化神器Explain
 
 - [Mysql优化神器Explain](https://segmentfault.com/a/1190000008131735)
