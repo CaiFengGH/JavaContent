@@ -1,3 +1,7 @@
+>任务
+
+- [IO密集型和CPU密集型](https://blog.csdn.net/youanyyou/article/details/78990156)
+
 >IO模型
 
 - [五种IO模型](http://www.importnew.com/22019.html)
