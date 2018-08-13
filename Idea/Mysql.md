@@ -6,6 +6,8 @@
 
 - [基本的Sql语句](https://www.jianshu.com/p/1681b9089528)
 
+- [Replace into和Insert into区别](https://www.cnblogs.com/c-961900940/p/6197878.html)
+
 - [复杂的Sql语句](https://www.jianshu.com/p/b390235306b4)
 
 - [Sql优化](http://database.51cto.com/art/200904/118526.htm)
