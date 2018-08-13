@@ -30,6 +30,10 @@
 
 - [Redis实现分布式锁](http://www.importnew.com/27477.html)
 
+>全局唯一ID
+
+- [分布式系统中全局唯一ID生成](https://www.cnblogs.com/baiwa/p/5318432.html)
+
 >Nginx
 
 - [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
