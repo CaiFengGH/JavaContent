@@ -28,6 +28,8 @@
 
 - [分布式锁的三种实现方式](http://www.hollischuang.com/archives/1716)
 
+- [Redis实现分布式锁](http://www.importnew.com/27477.html)
+
 >Nginx
 
 - [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
