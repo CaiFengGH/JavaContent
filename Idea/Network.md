@@ -20,6 +20,9 @@
 
 - [Tcp流量与拥塞控制](https://www.jianshu.com/p/5891211114ca)
 
+- [Tcp半连接之syn攻击](https://blog.csdn.net/shasiqq/article/details/68488328?locationNum=1&fps=1)
+[半连接队列和全连接队列](https://www.cnblogs.com/xrq730/p/6910719.html)
+
 >ARP协议
 
 - [ARP协议解析](https://www.jianshu.com/p/48e517a28fcb)
