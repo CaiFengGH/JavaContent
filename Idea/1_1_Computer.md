@@ -10,6 +10,10 @@
 
 - [常用正则表达式](http://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
 
+>磁盘阵列
+
+- [磁盘阵列RAID原理、种类及性能](https://www.cnblogs.com/chuncn/p/6008173.html)
+
 >性能排查
 
 - [服务器性能指标（一）——负载（Load）分析及问题排查](https://mp.weixin.qq.com/s/s4MkM6UDo5TOLhfnZadGsQ)
