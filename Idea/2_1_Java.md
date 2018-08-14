@@ -91,6 +91,8 @@
 
 - [BIO/NIO/AIO区别](https://blog.csdn.net/skiof007/article/details/52873421)
 
+- [文件同步读写实现](https://blog.csdn.net/aa112901a/article/details/53610114)
+
 ## Java集合
 
 - [Java优先队列PriorityQueue使用](http://www.importnew.com/6932.html)
