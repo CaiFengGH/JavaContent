@@ -2,7 +2,7 @@ package DesignPattern.SingletonPattern.Slacker;
 
 /**
  * @author Ethan
- * @desc 基于静态内部类实现
+ * @desc 闈欐�佸唴閮ㄧ被
  */
 public class Singleton4 {
 
