@@ -1,3 +1,7 @@
+>并发与并行
+
+- [并发和并行](http://ifeve.com/parallel_and_con/)
+
 >任务
 
 - [IO密集型和CPU密集型](https://blog.csdn.net/youanyyou/article/details/78990156)
