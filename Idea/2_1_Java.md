@@ -152,6 +152,8 @@
 
 - [sleep不释放对象锁](http://www.cnblogs.com/skywang12345/p/3479256.html)
 
+- [如何实现一个线程优先于另一个线程执行](https://stackoverflow.com/questions/11544843/interview-how-to-ensure-that-a-thread-runs-after-another)
+
 - [死锁问题](http://www.cnblogs.com/xrq730/p/4853713.html)
 
 - [生产者消费者模型-锁/阻塞队列](https://github.com/CaiFengGH/JobContent/tree/master/src/ProduceAndConsume)
