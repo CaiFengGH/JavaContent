@@ -76,8 +76,6 @@
 
 - [深入分析Java反射实现原理](https://www.jianshu.com/p/3ea4a6b57f87)
 
-- [详解代理-包括计算机网络层面和Java层面](https://mp.weixin.qq.com/s/kycTUCtgmjtdAA4f_KpFFg)
-
 >二进制基础
 
 - [二进制基础](https://mp.weixin.qq.com/s/AIvthkKEqacnfZBIZAxSKA)
