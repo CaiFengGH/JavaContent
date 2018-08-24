@@ -100,9 +100,17 @@
 
 ## Java集合
 
+>List实现类
+
+- [ArrayList详解](http://www.importnew.com/25008.html)
+
+- [LinkedList详解](http://www.importnew.com/25023.html)
+
 - [Java优先队列PriorityQueue使用](http://www.importnew.com/6932.html)
-[PriorityQueue底层原理即最小堆添加删除](http://www.cnblogs.com/CarpenterLee/p/5488070.html)
+[最小堆添加删除](http://www.cnblogs.com/CarpenterLee/p/5488070.html)
 [最大堆的添加删除](http://www.cnblogs.com/skywang12345/p/3610390.html)
+
+>Map实现类
 
 - [HashMap容量初始化深入](http://www.hollischuang.com/archives/2431)
 
@@ -114,7 +122,9 @@
 
 - [LinkedHashMap1.7](http://www.importnew.com/16695.html)
 
-- [Hash+index/hashTable+hashMap+concurrentHashMap/1.7+1.8](http://www.hollischuang.com/archives/2091)
+- [集合hash总览](http://www.hollischuang.com/archives/2091)
+
+>其他
 
 - [fail-fast](http://www.cnblogs.com/skywang12345/p/3308762.html)
 
