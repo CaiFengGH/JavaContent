@@ -37,3 +37,5 @@
 >Nginx
 
 - [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
+
+- [Nginx负载均衡的五种策略](https://www.cnblogs.com/andashu/p/6377323.html)
