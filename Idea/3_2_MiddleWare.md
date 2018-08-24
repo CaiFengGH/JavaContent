@@ -40,6 +40,10 @@
 
 - [一致性Hash算法实现](http://www.importnew.com/22488.html)
 
+>WebService
+
+- [WebService基本原理](https://www.cnblogs.com/codelir/p/5476517.html)
+
 >Nginx
 
 - [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
