@@ -34,6 +34,12 @@
 
 - [分布式系统中全局唯一ID生成](https://www.cnblogs.com/baiwa/p/5318432.html)
 
+>一致性算法
+
+- [一致性Hash算法原理](http://www.cnblogs.com/xrq730/p/4948707.html)
+
+- [一致性Hash算法实现](http://www.importnew.com/22488.html)
+
 >Nginx
 
 - [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
