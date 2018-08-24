@@ -122,6 +122,8 @@
 
 - [集合hash总览](http://www.hollischuang.com/archives/2091)
 
+- [synchronizedMap与ConcurrentHashMap](https://blog.csdn.net/madun/article/details/6326337)
+
 >其他
 
 - [fail-fast](http://www.cnblogs.com/skywang12345/p/3308762.html)
