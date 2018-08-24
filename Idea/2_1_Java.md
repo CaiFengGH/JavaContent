@@ -8,6 +8,11 @@
 
 - [三目运算符和自动拆箱导致空指针异常](http://www.hollischuang.com/archives/435)
 
+>向上转型和向下转型
+
+- [向上与向下](https://blog.csdn.net/mr_jj_lian/article/details/6860845)
+
+
 >可变参数
 
 - [Java可变参数](http://www.hollischuang.com/archives/222)
