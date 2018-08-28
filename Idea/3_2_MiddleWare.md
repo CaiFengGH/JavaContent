@@ -48,6 +48,10 @@
 
 - [Redis和MemCached区别](http://www.importnew.com/26921.html)
 
+>高并发
+
+- [秒杀和超卖](https://blog.csdn.net/zhoudaxia/article/details/38067003)
+
 >Nginx
 
 - [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
