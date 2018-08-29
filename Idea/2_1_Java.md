@@ -98,6 +98,10 @@
 
 ## Java集合
 
+>静态类Arrays和Collections
+
+- [Arrays.sort原理](https://www.cnblogs.com/gw811/archive/2012/10/04/2711746.html)
+
 >List实现类
 
 - [ArrayList详解](http://www.importnew.com/25008.html)
