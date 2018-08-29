@@ -8,5 +8,7 @@
 
 - [占小狼](https://www.jianshu.com/u/90ab66c248e6)
 
+- [海子](http://www.cnblogs.com/dolphin0520/p/3811445.html)
+
 - [July](https://blog.csdn.net/v_JULY_v)
 
