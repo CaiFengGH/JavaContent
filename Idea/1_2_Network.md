@@ -37,6 +37,8 @@
 
 - [DNS的工作原理及解析](http://www.cnblogs.com/wanghuaijun/p/6213661.html)
 
+- [DNS仅在区转发模式下基于Tcp](https://www.cnblogs.com/549294286/p/5172435.html)
+
 >子网划分
 
 - [互联网协议入门一](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
@@ -44,6 +46,7 @@
 >Restful风格
 
 - [Rest风格架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+
 
 
 
