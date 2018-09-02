@@ -14,6 +14,8 @@
 
 - [深入理解分布式系统中的缓存架构上](https://mp.weixin.qq.com/s/M77yC987OsE6sQP07ZzFPA) [深入理解分布式系统中的缓存架构下](https://mp.weixin.qq.com/s/-G_JgOmSGIvn0WqLghQaBA)
 
+- [SpringCache继承Redis缓存](http://www.importnew.com/29554.html)
+
 >序列化
 
 - [Java对象的序列化和反序列化](http://www.hollischuang.com/archives/1150)
