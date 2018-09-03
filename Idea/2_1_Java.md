@@ -1,5 +1,9 @@
 ## Java基础知识
 
+>equals和hashcode方法
+
+- [重写equals也要重写hashcode](https://blog.csdn.net/u013679744/article/details/57074669)
+
 >Comparable和Comparator
 
 - [Comparable和Comparator的使用](http://www.hollischuang.com/archives/1292)
