@@ -6,6 +6,8 @@
 
 - [进程线程和协程的区别](https://www.cnblogs.com/lxmhhy/p/6041001.html)
 
+- [进程间通信IPC](https://blog.csdn.net/wh_sjc/article/details/70283843)
+
 >任务
 
 - [IO密集型和CPU密集型](https://blog.csdn.net/youanyyou/article/details/78990156)
