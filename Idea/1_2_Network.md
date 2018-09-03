@@ -10,6 +10,8 @@
 
 - [http状态码查询](http://tool.oschina.net/commons?type=5)
 
+- [http中keep-alive](https://blog.csdn.net/xiaoduanayu/article/details/78386508)
+
 >Tcp协议
 
 - [Tcp头与Ip头](https://blog.csdn.net/ythunder/article/details/65664309)
