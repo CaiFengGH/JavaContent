@@ -1,3 +1,11 @@
+>分布式一致性协议
+
+- [拜占庭将军问题](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653193855&idx=1&sn=d73c377f791ee7bda6f37ad04856952b&chksm=8c99f4a5bbee7db35c2af3ace7d5be802d0e9ecaeb53b24a54ef9639e25ab1e09d20e6ca4c3d&mpshare=1&scene=1&srcid=0507RWQyqFey3k9FnQiSqXCc#rd)
+
+>分布式模式
+
+- [Broken模式](http://blog.chinaunix.net/uid-23093301-id-90459.html)
+
 >定时任务
 
 - [单机定时任务之crontab](https://www.cnblogs.com/shuaiqing/p/7742382.html)
