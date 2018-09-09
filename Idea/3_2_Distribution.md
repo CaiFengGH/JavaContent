@@ -64,6 +64,8 @@
 
 - [秒杀和超卖](https://blog.csdn.net/zhoudaxia/article/details/38067003)
 
+- [高并发限流](https://blog.csdn.net/u011001084/article/details/71077253)
+
 >Nginx
 
 - [Nginx简易教程之基本应用](https://www.cnblogs.com/jingmoxukong/p/5945200.html)
