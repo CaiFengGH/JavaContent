@@ -1,3 +1,7 @@
+>Linux系统原理
+
+- [Linux系统原理](https://www.linuxprobe.com/linux-system-structure.html)
+
 >Linux目录结构
 
 - [Linux目录结构](https://mp.weixin.qq.com/s/rVe_8dOQRmGHEkNzIFiJhQ)
