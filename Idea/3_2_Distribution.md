@@ -6,6 +6,10 @@
 
 - [Broken模式](http://blog.chinaunix.net/uid-23093301-id-90459.html)
 
+>权限模式
+
+- [权限系统与RBAC模型](https://blog.csdn.net/yangwenxue_admin/article/details/73936803)
+
 >定时任务
 
 - [单机定时任务之crontab](https://www.cnblogs.com/shuaiqing/p/7742382.html)
