@@ -27,6 +27,8 @@
 
 - [Tcp保活功能](https://www.jianshu.com/p/313798ae863d)
 
+- [Tcp粘包问题](https://www.cnblogs.com/kex1n/p/6502002.html)
+
 >ARP协议
 
 - [ARP协议解析](https://www.jianshu.com/p/48e517a28fcb)
