@@ -16,3 +16,5 @@
 
 - [Draveness](https://draveness.me/index)
 
+- [左耳朵耗子](https://coolshell.cn/articles/17010.html)
+
